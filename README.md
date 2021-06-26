@@ -36,3 +36,7 @@ This project was tested on Ubuntu 18.04.
   ./OSM_A_star_search
   ```
   ## Test Maps
+
+
+![alt text](MapEroilorBucharest.png)
+
